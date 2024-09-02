@@ -8,6 +8,9 @@ Proyek ini adalah aplikasi backend yang dibangun menggunakan Express, TypeScript
 
 ![alt text](image.png)
 
+
+![alt text](image-1.png)
+
 <!-- my-express-app/
 ├── src/
 │   ├── config/
